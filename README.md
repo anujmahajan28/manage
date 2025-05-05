@@ -24,6 +24,8 @@ ISTQB Foundation Syllabus, Bug Life Cycle, Sample Test Plan, Testing Concepts (W
 	•	Learned Agile methodology concepts including iterative development, Scrum framework, and sprint planning.
 	•	Gained an overview of how Jira supports Agile workflows and how Xray is used for managing test cases.
 
+5.	Automation Concepts & Technologies:
+• Went through automation concepts and technologies guided by Nikhil, focusing on the frameworks and tools used for automating testing processes.
 ⸻
 
 Let me know if there’s anything else you’d like me to cover.
