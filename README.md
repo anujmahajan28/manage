@@ -1,16 +1,32 @@
-Subject: Leave Request for Exam Preparation (15th to 21st May)
+Subject: Weekly Update (April 28 – May 3)
 
-Dear [Manager’s Name],
+Dear [Mentor’s/Manager’s Name],
 
-I hope this message finds you well.
+I hope you’re doing well. Please find below a summary of my work and learning progress for the week of April 28 to May 3:
 
-I would like to request leave from 15th to 21st May as I have my university examinations scheduled during this period. These exams are critical for the successful completion of my academic program, and I would appreciate your support in granting me the time off to prepare and appear for them.
+⸻
 
-Please let me know if any formal procedures are to be followed for this request. I will ensure all my current tasks are up to date before my leave and am happy to provide any necessary handover details.
+1. Testing & Documentation Review:
+	•	Went through key documents shared by Ashish including:
+ISTQB Foundation Syllabus, Bug Life Cycle, Sample Test Plan, Testing Concepts (Word & Excel), Test Scenarios, QC notes.
+	•	Gained clarity on core concepts like test case structure, bug lifecycle, severity vs priority, and manual vs automation testing.
 
-Thank you for your understanding and support.
+2. SQL Practice:
+	•	Practiced queries involving SELECT, WHERE, ORDER BY, GROUP BY, JOIN, and filters.
+	•	Referred to PDFs and docs like SQL Basics, Command List, Quick Reference, and Tutorial.
+	•	Shared an Excel sheet with Chandra to track and update my SQL query practice regularly.
+
+3. MyCreditApp (MCA) Portal:
+	•	Understood how to create and manage credit requests through the UAT portal.
+	•	Explored dashboard sections like My Requests, Pending Decision, and applied filters for request tracking.
+
+4. Agile & Jira Overview:
+	•	Learned Agile methodology concepts including iterative development, Scrum framework, and sprint planning.
+	•	Gained an overview of how Jira supports Agile workflows and how Xray is used for managing test cases.
+
+⸻
+
+Let me know if there’s anything else you’d like me to cover.
 
 Best regards,
 [Your Full Name]
-[Your Position]
-BNP Paribas ISPL
