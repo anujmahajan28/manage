@@ -1,34 +1,39 @@
-Subject: Weekly Update (April 28 – May 3)
+Subject: Weekly Update: May 5 – May 10
 
-Dear [Mentor’s/Manager’s Name],
+Dear [Manager’s Name],
 
-I hope you’re doing well. Please find below a summary of my work and learning progress for the week of April 28 to May 3:
+I hope you’re doing well.
+
+Please find below my weekly update for the period May 5 – May 10:
 
 ⸻
 
-1. Testing & Documentation Review:
-	•	Went through key documents shared by Ashish including:
-ISTQB Foundation Syllabus, Bug Life Cycle, Sample Test Plan, Testing Concepts (Word & Excel), Test Scenarios, QC notes.
-	•	Gained clarity on core concepts like test case structure, bug lifecycle, severity vs priority, and manual vs automation testing.
+This week I focused on hands-on activities, in-depth review of the MyCreditApp modules, UAT platform testing, and backend practice for better understanding of system flow and data operations.
 
-2. SQL Practice:
-	•	Practiced queries involving SELECT, WHERE, ORDER BY, GROUP BY, JOIN, and filters.
-	•	Referred to PDFs and docs like SQL Basics, Command List, Quick Reference, and Tutorial.
-	•	Shared an Excel sheet with Chandra to track and update my SQL query practice regularly.
+1. MyCreditApp Functional Exploration:
+	•	Reviewed the Workflow module using official documentation, learning resources, and flash tutorials to understand request processing and user interaction flow.
+	•	Explored supporting sections like Credit App Academy, FAQs, SuperUsers, and SharePoint to improve familiarity with available tools and onboarding content.
+	•	Understood how different user roles interact within the system and how documentation supports their actions.
 
-3. MyCreditApp (MCA) Portal:
-	•	Understood how to create and manage credit requests through the UAT portal.
-	•	Explored dashboard sections like My Requests, Pending Decision, and applied filters for request tracking.
+2. Testing & Jira:
+	•	Explored the status and lifecycle of relevant Jira tickets for FS 25.5, especially closed and recently updated ones, to track progress and changes.
+	•	Performed end-to-end testing on the UAT platform, covering everything from creating requests to final decision review.
+	•	Accessed various environments including Dev, QA, and UAT, and validated request handling across them.
+	•	Paid attention to edge cases and user flows to improve confidence in testing.
 
-4. Agile & Jira Overview:
-	•	Learned Agile methodology concepts including iterative development, Scrum framework, and sprint planning.
-	•	Gained an overview of how Jira supports Agile workflows and how Xray is used for managing test cases.
+3. Ongoing Practice & Reviews:
+	•	Repeated tasks on the UAT portal to reinforce understanding and avoid errors during future testing.
+	•	Revisited workflows, forms, and submission flows to become more efficient in navigating the platform.
 
-5.	Automation Concepts & Technologies:
-• Went through automation concepts and technologies guided by Nikhil, focusing on the frameworks and tools used for automating testing processes.
+4. SQL & Backend Practice:
+	•	Focused on refining query-building logic by working on structured data examples and result validation.
+	•	Practiced working with tabular data and filtering conditions to support backend testing requirements.
+	•	Maintained and updated a shared Excel sheet to track query patterns, examples, and learnings for future reference.
+
 ⸻
 
-Let me know if there’s anything else you’d like me to cover.
+Please let me know if there’s any specific module or area you’d like me to prioritize in the coming week.
 
 Best regards,
 [Your Full Name]
+[Your Designation]
